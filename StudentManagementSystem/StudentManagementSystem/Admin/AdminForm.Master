@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminForm.master.cs" Inherits="StudentManagementSystem.Admin.AdminForm" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        body {
+            background-image : url("/Images/School.jpg");
+            background-size : cover;
+        }
+        .auto-style1 {
+            color: #FF0000;
+            text-align: center;
+        }
+        .auto-style3 {
+            color: #FF0000;
+            font-size: large;
+            text-decoration: none;
+        }
+        .auto-style4 {
+            color: #FF0000;
+            font-size: large;
+            pointer: cursor;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div>
+                <h1 class="auto-style1">Welcome to Admin Home Page</h1>
+            </div>
+            <div style="background-color:black;padding:20px;">
+                <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style3" NavigateUrl="~/Admin/DisplayAllStudents.aspx">Display All Students</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink2" runat="server" CssClass="auto-style4" NavigateUrl="~/Admin/AddNewStudent.aspx">Add new student</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink3" runat="server" CssClass="auto-style4" NavigateUrl="~/Admin/UpdateOrDeleteStudents.aspx">Update/Delete all Students Records</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink4" runat="server" CssClass="auto-style4" NavigateUrl="~/Admin/AddNewCourse.aspx">Add new Course</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink5" runat="server" CssClass="auto-style4" NavigateUrl="~/Admin/UpdateOrDeleteCourses.aspx">Update/Delete Courses</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:HyperLink ID="HyperLink6" runat="server" CssClass="auto-style4" NavigateUrl="~/Admin/Payments.aspx">Payments</asp:HyperLink>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink7" runat="server" CssClass="auto-style3" NavigateUrl="~/Admin/AdminLogin.aspx">Log out</asp:HyperLink>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
