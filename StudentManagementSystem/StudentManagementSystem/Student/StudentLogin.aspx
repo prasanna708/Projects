@@ -62,7 +62,9 @@
                 <br class="auto-style2" />
                 <br class="auto-style2" />
                 <asp:Label ID="lblMessage" runat="server" CssClass="auto-style2" ForeColor="Red"></asp:Label>
-                
+                <br /><br />
+                <asp:HyperLink ID="HyperLink1" runat="server" Text="Back to Dashboard" NavigateUrl="~/SMS-APP/WelcomePage.aspx" />
+                <br />
             </div>
         </div>
     </form>

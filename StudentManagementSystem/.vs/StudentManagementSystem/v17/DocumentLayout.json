@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\sms-app\\welcomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\updateordeletestudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletestudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\.net\\projects\\studentmanagementsystem\\studentmanagementsystem\\admin\\updateordeletestudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletestudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\updateordeletestudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletestudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\updateordeletecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\adminform.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\adminform.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\updateordeletecourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletecourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\feedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\feedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\addnewstudent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\addnewstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\addnewstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\updateordeletecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\updateordeletecourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\displayallstudents.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\studentlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\studentlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\feedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\feedetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\changepassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\feedetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\studentlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\viewstudentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\viewstudentdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -105,10 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\student\\studenthomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\student\\studenthomepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\adminform.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\admin\\adminform.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAD980CC-DDCC-4C70-AF88-707E4D72283E}|StudentManagementSystem\\StudentManagementSystem.csproj|D:\\.NET\\Projects\\StudentManagementSystem\\studentmanagementsystem\\admin\\payments.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,15 +150,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UpdateOrDeleteStudents.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx.cs",
               "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx.cs",
               "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwHYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:28:49.074Z",
+              "WhenOpened": "2024-10-04T05:38:11.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateOrDeleteStudents.aspx",
+              "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
+              "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
+              "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T05:34:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateOrDeleteCourses.aspx.cs",
+              "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx.cs",
+              "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:55:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateOrDeleteCourses.aspx",
+              "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
+              "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
+              "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-04T04:51:44.878Z",
               "EditorCaption": ""
             },
             {
@@ -172,20 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "FeeDetails.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\FeeDetails.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\FeeDetails.aspx.cs",
               "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\FeeDetails.aspx.cs",
               "RelativeToolTip": "StudentManagementSystem\\Student\\FeeDetails.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T07:09:00.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "FeeDetails.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\FeeDetails.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\FeeDetails.aspx",
@@ -198,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Securityquestion.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\Securityquestion.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\Securityquestion.aspx.cs",
@@ -211,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Securityquestion.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\Securityquestion.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\Securityquestion.aspx",
@@ -224,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ChangePassword.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\ChangePassword.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\ChangePassword.aspx.cs",
@@ -237,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ChangePassword.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\ChangePassword.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\ChangePassword.aspx",
@@ -250,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "UpdatePersonalDetails.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\UpdatePersonalDetails.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\UpdatePersonalDetails.aspx.cs",
@@ -263,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "UpdatePersonalDetails.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\UpdatePersonalDetails.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\UpdatePersonalDetails.aspx",
@@ -276,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ViewStudentDetails.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\ViewStudentDetails.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\ViewStudentDetails.aspx.cs",
@@ -289,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ViewStudentDetails.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\ViewStudentDetails.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\ViewStudentDetails.aspx",
@@ -302,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "StudentHomePage.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\StudentHomePage.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\StudentHomePage.aspx",
@@ -315,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "StudentForm.Master.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\StudentForm.Master.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\StudentForm.Master.cs",
@@ -328,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "StudentForm.Master",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\StudentForm.Master",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\StudentForm.Master",
@@ -341,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "StudentLogin.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\StudentLogin.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\StudentLogin.aspx.cs",
@@ -354,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "StudentLogin.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Student\\StudentLogin.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Student\\StudentLogin.aspx",
@@ -367,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "DisplayAllStudents.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\DisplayAllStudents.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\DisplayAllStudents.aspx.cs",
@@ -380,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DisplayAllStudents.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\DisplayAllStudents.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\DisplayAllStudents.aspx",
@@ -393,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Payments.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\Payments.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\Payments.aspx.cs",
@@ -406,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Payments.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\Payments.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\Payments.aspx",
@@ -419,20 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateOrDeleteCourses.aspx",
-              "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
-              "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
-              "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteCourses.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-29T10:04:24.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "AddNewCourse.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AddNewCourse.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AddNewCourse.aspx.cs",
@@ -445,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "AddNewCourse.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AddNewCourse.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AddNewCourse.aspx",
@@ -458,20 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateOrDeleteStudents.aspx",
-              "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
-              "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
-              "RelativeToolTip": "StudentManagementSystem\\Admin\\UpdateOrDeleteStudents.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-29T09:59:00.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "AddNewStudent.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AddNewStudent.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AddNewStudent.aspx.cs",
@@ -484,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "AddNewStudent.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AddNewStudent.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AddNewStudent.aspx",
@@ -497,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "AdminHomePage.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AdminHomePage.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AdminHomePage.aspx",
@@ -510,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "AdminForm.Master",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AdminForm.Master",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AdminForm.Master",
@@ -523,20 +540,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Web.config",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Web.config",
               "ToolTip": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Web.config",
               "RelativeToolTip": "StudentManagementSystem\\Web.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-09-29T09:44:03.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "AdminLogin.aspx.cs",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AdminLogin.aspx.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AdminLogin.aspx.cs",
@@ -549,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AdminLogin.aspx",
               "DocumentMoniker": "D:\\.NET\\Projects\\StudentManagementSystem\\StudentManagementSystem\\Admin\\AdminLogin.aspx",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Admin\\AdminLogin.aspx",
